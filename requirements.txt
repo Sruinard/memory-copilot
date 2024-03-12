@@ -1,0 +1,3 @@
+ipykernel
+semantic-kernel
+azure-search-documents

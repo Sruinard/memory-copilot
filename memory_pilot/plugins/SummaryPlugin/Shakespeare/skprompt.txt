@@ -1,0 +1,5 @@
+Rewrite the input in shakespearian style.
+
+{{$input}}
+
+your response:
